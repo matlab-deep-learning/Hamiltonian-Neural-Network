@@ -4,11 +4,11 @@
 Hamiltonian Neural Network[1] enables you to use Neural Networks under the law of conservation of energy.
 
 
-<img src="https://insidelabs-git.mathworks.com/tfukumot/hamiltonian-neural-network/-/raw/main/Pics/1.png" width="720">
+<img src="https://github.com/matlab-deep-learning/Hamiltonian-Neural-Network/blob/main/Pics/1.png" width="720">
 
 
 Hamiltonian Neural Network Loss is expressed with the following equation.
-<img src="https://insidelabs-git.mathworks.com/tfukumot/hamiltonian-neural-network/-/raw/main/Pics/2.png" width="720">
+<img src="https://github.com/matlab-deep-learning/Hamiltonian-Neural-Network/blob/main/Pics/2.png" width="720">
 
 
 ## **Requirements**
