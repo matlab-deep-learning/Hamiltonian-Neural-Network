@@ -1,3 +1,14 @@
+:warning: Project Archived
+
+This repository is no longer actively maintained.
+
+Development has moved to a new repository, which contains all the content from here and is actively updated with new features and improvements.
+
+➡️ Please visit [hamiltonian-neural-network](https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples/tree/main/hamiltonian-neural-network) for the latest version and continued development.
+
+This repository will remain available for existing users, but we recommend switching to the new repository for the most up-to-date experience.
+
+
 # Hamiltonian Neural Network
 
 
